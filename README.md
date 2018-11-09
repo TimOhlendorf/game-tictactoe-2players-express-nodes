@@ -1,8 +1,7 @@
-# game-tictactoe-2players-express-nodes
 
 # Project Title
 
-# game-tictactoe-2players-express-nodes
+## game-tictactoe-2players-express-nodes
 
 ## Getting Started
 
