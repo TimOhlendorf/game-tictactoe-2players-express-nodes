@@ -11,6 +11,8 @@ The project files are available on github.
 
 ## Description
 
+TicTacToe game runs on an express server. 2 People can connect via browser to the express server and compete in a game of tictactoe. 
+
 Copy project files to your directory.
 
 Start express server with 
